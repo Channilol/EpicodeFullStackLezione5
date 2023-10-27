@@ -170,7 +170,7 @@ footer {
     display: flex;
 }
 
-footer a:link,footer a:visited,footer a:active,footer a:hover,footer ,footer p,footer address {
+footer a:link,footer a:visited,footer a:active,footer a:hover,footer p,footer address {
     color: white;
     font-weight: 300;
 }
