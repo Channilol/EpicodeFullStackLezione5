@@ -50,11 +50,11 @@ header button {
 }
 
 #headerbottom {
-    background-image: url(/assets/images/banner.jpg);
+    padding: 20vh 25vw;
+    background-image: url("../images/banner.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 15%;
-    padding: 20vh 25vw;
 }
 
 /* Main 1*/
