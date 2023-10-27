@@ -56,7 +56,7 @@ header button:hover {
 
 #headerbottom {
     padding: 20vh 25vw;
-    background-image: url("banner.jpg");
+    background-image: url("../images/banner.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 15%;
