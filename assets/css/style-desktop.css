@@ -43,6 +43,11 @@ header button {
     cursor: pointer;
 }
 
+
+header button:hover {
+    background-color: #da2100;
+}
+
 #headertop {
     background-color: black;
     text-align: left;
@@ -51,7 +56,7 @@ header button {
 
 #headerbottom {
     padding: 20vh 25vw;
-    background-image: url("EpicodeFullStackLezione5/assets/images/banner.jpg");
+    background-image: url("../images/banner.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 15%;
@@ -137,6 +142,11 @@ header button {
     text-align: center;
     font-size: 0.85em;
     border-radius: 5px;
+    opacity: 1;
+}
+
+.boxedcontainer:hover {
+    opacity: 0.9;
 }
 
 .boxedcontainer p {
@@ -147,6 +157,7 @@ header button {
     height: 271px;
     width: 100%;
 }
+
 
 /* Footer */
 
